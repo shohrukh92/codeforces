@@ -1,4 +1,5 @@
-http://codeforces.com/contest/523/problem/C
+// http://codeforces.com/contest/523/problem/C
+
 #include <stdio.h>
 #include <string.h>
 int main() {
