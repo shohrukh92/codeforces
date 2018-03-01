@@ -1,4 +1,4 @@
-http://codeforces.com/contest/520/problem/B
+// http://codeforces.com/contest/520/problem/B
 
 #include <stdio.h>
 
