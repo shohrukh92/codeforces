@@ -1,8 +1,6 @@
-# codeforces.com solutions
+# Solutions: codeforces.com problemset
 
-В данном репозитории я собрал свои решения задач codeforces.com (c ~2013 года) на языках программирования C++ и Java. Задачи распределены по папкам (cpp, java etc.) и каждое имя файла соответствует номеру задачи в системе. Основная цель решений - пройти все тесты (при условии ограничений по времени и памяти), поэтому рефакторинг, оптимизация и добавление комментариев в коде еще актуальны...
+In this repo I've published all my solutions from codeforces.com problemset (since 2013). Most of the tasks were solved using C++, Java and Python programming languages. Solutions grouped by folders (i.e. programming language name) and each filename actually is a unique id of task from problemset (e.g. 123A.java, 234B.py, 345A.cpp etc.). The link to the task can be found in the source code of each solution (first line).
 
-Для просмотра условий задач можно перейти по ссылкам, которые указаны в начале каждого файла решений.
-
-Ссылка на архив задач codeforces:
+Problemset link:
 http://codeforces.com/problemset
